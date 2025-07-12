@@ -1,0 +1,49 @@
+# === [ CMake Build Folders ] ===
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+install_manifest.txt
+Testing/
+CTestTestfile.cmake
+
+# === [ Visual Studio Generated Files ] ===
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.pdb
+*.ilk
+*.ipch
+*.tlog
+*.log
+*.obj
+*.idb
+*.cache
+*.VC.db
+*.VC.VC.opendb
+
+# === [ Output Binaries ] ===
+*.exe
+*.exp
+
+# === [ Ignore DLLs everywhere... EXCEPT in lib/ ] ===
+*.dll
+!lib/*.dll
+
+# === [ Ignore LIBs everywhere... EXCEPT in lib/ ] ===
+*.lib
+!lib/*.lib
+
+# === [ IDE/Junk Files ] ===
+.vscode/
+.idea/
+*.bak
+*.old
+*.tmp

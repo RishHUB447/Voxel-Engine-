@@ -1,2 +1,3 @@
-# Voxel-Engine-
-A Minecraft like Voxel engine, made in OpenGL
+# MineCraft: C++ Edition
+
+> Tech Stack : C++, OpenGL, GLFW, ASSIMP
