@@ -2,11 +2,11 @@
 
 > Tech Stack : C++, OpenGL, GLFW, ASSIMP
 
-![Thumbnail](assets/MineCraftC++.png)
-![Thumbnail](assets/1.png)
-![Thumbnail](assets/2.png)
-![Thumbnail](assets/3.png)
-![Thumbnail](assets/4.png)
+![Thumbnail](assets/MinecraftC++.png)
+![1](assets/1.png)
+![2](assets/2.png)
+![3](assets/3.png)
+![4](assets/4.png)
 
 ## Build Instructions
 ### 🧰 Requirements
