@@ -28,6 +28,7 @@ CTestTestfile.cmake
 *.cache
 *.VC.db
 *.VC.VC.opendb
+*.aps
 
 # === [ Output Binaries ] ===
 *.exe
